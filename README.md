@@ -1,4 +1,4 @@
-![Print da Aplicação](./resources/print_01.png)
+![Print da Aplicação](./resources/img_4x.png)
 
 # About 💡
 This simple website was developed along the Discover Marathon week, an event promoted by Rockeatseat tech school. This project aims to act as a link concentrator that can be used anywhere.
