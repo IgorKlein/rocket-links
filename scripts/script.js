@@ -15,7 +15,7 @@ const ThemeChanger = {
     }
 }
 
-const Timer = {
+const AutoChanger = {
 
     run(time) {
         setInterval (() => {
@@ -28,4 +28,4 @@ let picture = document.querySelector('img')
 picture.addEventListener('click', ThemeChanger.change)
 
 TIME_TO_CHANGE = 5
-Timer.run(TIME_TO_CHANGE * 1000);
+AutoChanger.run(TIME_TO_CHANGE * 1000);
